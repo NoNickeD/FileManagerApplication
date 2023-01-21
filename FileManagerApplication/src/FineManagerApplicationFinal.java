@@ -32,7 +32,7 @@ public class FineManagerApplicationFinal {
                 exit();
                 break;
             default:
-                System.out.println("Invalid option. Please select again.");
+                System.out.println("Invalid option. Exiting.");
                 break;
         }
     }
@@ -77,7 +77,7 @@ public class FineManagerApplicationFinal {
                 navigateBack();
                 break;
             default:
-                System.out.println("Invalid option. Please select again.");
+                System.out.println("Invalid option. Exiting.");
                 break;
         }
     }
