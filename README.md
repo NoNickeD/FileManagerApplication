@@ -1,4 +1,4 @@
-# FileManagerApplication
+# File Manager Application
 
 This application is written in Java and serves the following functions:
 
@@ -22,6 +22,8 @@ This application is written in Java and serves the following functions:
 - There should be a third option to close the application.
 - Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance.
 ```
+
+## Plan more than two sprints to complete the application:
 
 ### Sprint 1:
 - Develop the welcome screen and display the application name and developer details.
